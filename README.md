@@ -5,4 +5,4 @@
 
 ## My most pick champion : **Teemo**
 
-![Alt text](/Teemo.png)
+![Alt text](https://github.com/pupifufi/sungsung/blob/sungsung/Teemo.PNG?raw=true)
