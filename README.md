@@ -12,5 +12,5 @@
 
 ### Recommend item build
 
-![Alt text]
+![Alt text](https://github.com/pupifufi/sungsung/blob/sungsung/item.PNG?raw=true)
 
