@@ -10,3 +10,7 @@
 ![Alt text](https://github.com/pupifufi/sungsung/blob/sungsung/Teemo.PNG?raw=true)
 
 
+### Recommend item build
+
+![Alt text](https://github.com/pupifufi/sungsung/blob/sungsung/item.PNG?raw=true)
+
